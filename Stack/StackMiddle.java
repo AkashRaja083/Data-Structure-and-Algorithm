@@ -9,7 +9,7 @@ class Node{
         next = prev = null;
     }
 }
-class StackMiddle{
+class Stackmiddle{
     Node head;
     Node mid;
     int size;
@@ -89,7 +89,7 @@ class StackMiddle{
         }
     }
 }
-public class Main{
+public class StackMiddle{
     public static void main(String[] args){
         StackMiddle stack = new StackMiddle();
         Scanner sc = new Scanner(System.in);
